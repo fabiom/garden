@@ -1,4 +1,4 @@
-baseURL = "https://garden.fabiom.net/"
+baseURL = "https://fabiom.net/garden/"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = false
