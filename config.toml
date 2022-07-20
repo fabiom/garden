@@ -1,5 +1,5 @@
-baseURL = "https://fabiom.net/garden/"
-languageCode = "en-us"
+baseURL = "https://fabiom.net/jardim/"
+languageCode = "pt-br"
 googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
