@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Fábio Meneghetti
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,12 +12,11 @@ enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My personal digital garden.
 page_title:
-  "🪴 Quartz 3.2"
+  "Digital Garden 🪴"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Home
+    link: /
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/fabiomeneg
