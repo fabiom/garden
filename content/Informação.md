@@ -1,5 +1,0 @@
----
-title: Informação
----
-
-Bla bla

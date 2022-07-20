@@ -2,7 +2,6 @@
 title: Jardim da Informação
 ---
 
-Pesquise pelo jardim usando `Ctrl` + `k`
+Este é um jardim matemático dedicado à ideia de [[medidas-de-informacao|informação]].
 
-# Áreas
-- [[Teoria da informação]]
+Pesquise pelo jardim usando `Ctrl` + `k`
