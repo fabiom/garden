@@ -1,8 +1,8 @@
 ---
-title: fabiom's digital garden
+title: Jardim da Informação
 ---
 
-Full-text search by pressing `Ctrl` + `k`
+Pesquise pelo jardim usando `Ctrl` + `k`
 
-# Themes
-- [[Information Geometry]]
+# Áreas
+- [[Teoria da informação]]

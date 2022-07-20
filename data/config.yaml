@@ -10,13 +10,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/fabiom/jardim/
 description:
-  My personal digital garden.
+  Um jardim matemático para a informação.
 page_title:
-  "Digital Garden 🪴"
+  "🪴 Jardim da Informação"
 links:
   - link_name: Home
     link: /
   - link_name: Github
-    link: https://github.com/fabiomeneg
+    link: https://github.com/fabiom
