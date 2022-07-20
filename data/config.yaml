@@ -16,7 +16,5 @@ description:
 page_title:
   "🪴 Jardim da Informação"
 links:
-  - link_name: Home
-    link: /
-  - link_name: Github
-    link: https://github.com/fabiom
+  - link_name: Sobre mim
+    link: https://fabiom.net
